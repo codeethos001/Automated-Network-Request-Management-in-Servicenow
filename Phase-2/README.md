@@ -1,4 +1,4 @@
-## Phase 2 – Data Architecture & Automation Logic
+## Phase 2 – Data Architecture & Automation Logic & Business Logic
 
 This phase covers:
 
@@ -13,4 +13,5 @@ This phase covers:
 3. Phase - 2.3 Business Rules.pdf
 
 Each document contains detailed screenshots and step-by-step implementation explanation.
+
 
